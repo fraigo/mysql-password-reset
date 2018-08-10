@@ -6,7 +6,7 @@
 # References: https://help.ubuntu.com/community/MysqlPasswordReset 
 # 
 
-export NEWPASSWORD = 123456
+export NEWPASSWORD=123456
 
 # Stop the mysql demon process using this command :
 sudo /etc/init.d/mysql stop
